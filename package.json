@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:html": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jquery-validation": "^1.21.0",
+    "next": "^15.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
