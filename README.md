@@ -29,3 +29,4 @@ Este é um projeto de formulário **multi-etapas** desenvolvido com **React** no
   - (Aqui você pode incluir o banco de dados que está utilizando, como MongoDB, MySQL, etc.)
 
 ---
+![Preview Image](https://github.com/sabrinagui/multiform-react/blob/main/preview.png)
