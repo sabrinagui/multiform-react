@@ -41,15 +41,17 @@ class StepFour extends React.Component {
                                         </select>
                                     </div>
                                     <div className="budget-area">
-                                        <p>Optimization and Accessibility</p>
+                                    
+                                        <p>Seu objetivo é:</p>
                                         <div className="opti-list">
                                             <ul className="d-md-flex">
-                                                <li className="bg-white active"><input type="checkbox" name="code_opti1" value="Semantic coding" defaultChecked />Semantic coding</li>
-                                                <li className="bg-white"><input type="checkbox" name="code_opti2" value="Mobile APP" />Mobile APP</li>
-                                                <li className="bg-white"><input type="checkbox" name="code_opti3" value="Mobile Design" />Mobile Design</li>
+                                                <li className="bg-white active"><input type="checkbox" name="code_opti1" value="Semantic coding" defaultChecked /> Site Institucional</li>
+                                                <li className="bg-white"><input type="checkbox" name="code_opti2" value="Mobile APP" />E-commerce</li>
+                                                <li className="bg-white"><input type="checkbox" name="code_opti3" value="Mobile Design" />Sistema Personalizado</li>
                                             </ul>
                                         </div>
                                     </div>
+                                    
                                     <div className="comment-box">
                                         <p><i className="fas fa-comments"></i> Escreva mais detalhes</p>
                                         <textarea name="comments-note" placeholder="Mais detalhes aqui"></textarea>

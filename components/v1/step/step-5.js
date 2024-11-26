@@ -18,7 +18,7 @@ class StepFive extends React.Component {
                                     </div>
                                 </div>
                                 <h2>Ultimo passo</h2>
-                                <p>Tation argumentum et usu, dicit viderer evertitur te has. Eu dictas concludaturque usu, facete detracto patrioque an per, lucilius pertinacia eu vel.</p>
+                                <p>Este prazo inclui etapas como planejamento, desenvolvimento, testes e ajustes finais.</p>
                                 <div className="step-content-field">
                                     <div className="date-picker date datepicker">
                                         <input type="text" name="date" className="form-control" />
