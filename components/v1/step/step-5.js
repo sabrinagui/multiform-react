@@ -24,28 +24,7 @@ class StepFive extends React.Component {
                                         <input type="text" name="date" className="form-control" />
                                             <div className="input-group-append"><span>Prazo estimado</span></div>
 										</div>
-                                        <div className="plan-area">
-                                            <div className="plan-icon-text text-center active">
-                                                <div className="plan-icon">
-                                                    <i className="fas fa-chess-queen"></i>
-                                                </div>
-                                                <div className="plan-text">
-                                                    <h3>Unlimited Plan</h3>
-                                                    <p>Tation argumentum et usu, dicit viderer evertitur te has. Eu dictas concludaturque usu, dicit viderer evertitur</p>
-                                                    <input type="radio" name="your_plan" value="Unlimited Plan" defaultChecked />
-                                                </div>
-                                            </div>
-                                            <div className="plan-icon-text text-center">
-                                                <div className="plan-icon">
-                                                    <i className="fas fa-cubes"></i>
-                                                </div>
-                                                <div className="plan-text">
-                                                    <h3>Limited Plan</h3>
-                                                    <p>Tation argumentum et usu, dicit viderer evertitur te has. Eu dictas concludaturque usu, dicit viderer evertitur</p>
-                                                    <input type="radio" name="your_plan" value="Unlimited Plan" />
-												</div>
-                                                </div>
-                                            </div>
+                                        
                                         
                                            
                                            
